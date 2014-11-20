@@ -1,0 +1,30 @@
+{
+    "site": {
+        "name": "Timber Twig Example",
+        "language_attributes": "lang='en-UK'",
+        "charset": "utf-8",
+        "description": "Placeholder description in HTML HEAD",
+        "pingback_url": "http://www.someurl.com",
+        "theme": {
+            "link": ""
+        },
+        "upload_dir": {
+            "baseurl": "/uploads"
+        }
+    },
+    "wp_title": "Timber Twig Example",
+    "menu": {
+        "items": [
+            {
+                "link": "/",
+                "title": "Home",
+                "slug": "home"
+            },
+            {
+                "link": "/contact/",
+                "title": "Contact",
+                "slug": "contact"
+            }
+        ]
+    }
+}
